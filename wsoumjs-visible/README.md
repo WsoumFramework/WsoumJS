@@ -1,10 +1,12 @@
+# WsoumJs Visible
+
    WsoumJs Visible v1.0.0
    https://framework.wsoum.ml/wsoumjs-visible/
   
    Redistribution jquery-visible
    https://github.com/customd/jquery-visible
   
-   Copyright (c) Wsoum and 2012 Digital Fusion
+   Copyright (c) Wsoum and Digital Fusion 2012
    Released under the MIT license
    https://framework.wsoum.ml/wsoumjs-visible/license
   
